@@ -1,6 +1,6 @@
 # Shankara Parameshwari Navya Sri
 
-<img src="123.jpg" alt="Navya Sri" width="150"/>
+<img src="Headshot.jpg" alt="Navya Sri" width="150"/>
 
 4748 Drayton Green, Arbutus, Baltimore, 21227  
 667-900-5616 | sdameru1@umbc.edu | [LinkedIn](https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239)| [GitHub](https://github.com/dspnavya)
