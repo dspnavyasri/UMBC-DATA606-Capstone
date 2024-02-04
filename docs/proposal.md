@@ -2,7 +2,7 @@
 - Prepared for UMBC Data Science Master Degree Capstone by **Dr Chaojie (Jay) Wang**
 - Shankara Parameshwari Navya Sri Dameruppula
 - GitHub profile : https://github.com/dspnavyasri
-- LinkedIn progile : https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/
+- LinkedIn profile : https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/
 - PowerPoint :
 - YouTube video :
     
