@@ -3,8 +3,7 @@
 - Shankara Parameshwari Navya Sri Dameruppula
 - GitHub profile : https://github.com/dspnavyasri
 - LinkedIn profile : https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/
-- PowerPoint :
-- YouTube video :
+
     
 ## 2. Background
 
