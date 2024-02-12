@@ -26,7 +26,7 @@ Describe the datasets you are using to answer your research questions[.
 - Data size : 40KB
 - Data shape (number of rows and columns): 768 rows and 9 columns
 
-### Loan Dataset Data Dictionary
+### Diabetes Dataset Data Dictionary
 
 | Column Name            | Data Type | Definition                                            | Potential Values         |
 |------------------------|-----------|------------------------------------------------------|--------------------------|
