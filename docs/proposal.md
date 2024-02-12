@@ -23,7 +23,7 @@
 
 Describe the datasets you are using to answer your research questions[.
 - Data sources : (https://www.kaggle.com/datasets/shantanudhakadd/diabetes-dataset-for-beginners)
-- Data size : 40KB
+- Data size : 25KB
 - Data shape (number of rows and columns): 768 rows and 9 columns
 
 ### Diabetes Dataset Data Dictionary
