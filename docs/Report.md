@@ -5,7 +5,7 @@
 - GitHub profile : https://github.com/dspnavyasri
 - LinkedIn progile : https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/
 - PowerPoint :[https://github.com/dspnavyasri/rought-work/blob/main/docs/Predicting Diabetes Using Machine Learning .pptx](https://github.com/dspnavyasri/rought-work/blob/main/docs/Presentation.pptx)
-- YouTube video :
+- YouTube video : https://www.youtube.com/watch?v=jEeY6cHDm7A
   
 ## 2. Background
 
